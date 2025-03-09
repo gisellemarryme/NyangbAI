@@ -1,0 +1,2 @@
+# NyangbAI
+python AI coding
