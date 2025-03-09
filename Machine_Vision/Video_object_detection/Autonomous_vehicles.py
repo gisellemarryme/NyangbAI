@@ -1,4 +1,4 @@
-# 구글 코랩에서 진행
+# 구글 코랩에서 진행 
 from google.colab import drive
 drive.mount('/content/drive')
 
