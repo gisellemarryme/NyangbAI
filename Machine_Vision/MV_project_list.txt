@@ -3,3 +3,6 @@ Video_object_detection -> 영상 객체 인식 프로젝트 모음
   Autonomous_vehicles_output.mp4 -> 자율주행 객체 인식 결과물
 
 Image_classification -> 이미지 분류 프로젝트
+  CNN-base-classification.ipynb -> CNN으로 이미지 데이터셋 분류 모델
+  
+  
