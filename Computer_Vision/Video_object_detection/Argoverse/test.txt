@@ -1,0 +1,1 @@
+Argoverse 데이터셋으로 학습한 YOLOv5 모델
