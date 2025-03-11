@@ -1,1 +1,3 @@
-
+CIFAR10 이미지 데이터셋을
+MLP -> CNN -> pretrained model로 분류
+단계를 거칠 수록 accuracy가 높아지도록 설정함
