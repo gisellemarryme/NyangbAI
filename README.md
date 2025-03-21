@@ -1,5 +1,5 @@
 # NyangbAI
-python AI coding
+python AI Deeplearning coding
 
 - Computer Vision
 - Data Mining
